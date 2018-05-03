@@ -35,3 +35,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+here is Latex fomula
+<a href="http://www.codecogs.com/eqnedit.php?latex=\large&space;h(n)=C_{2n}^{n}-C_{2n}^{n+1}" target="_blank"><img src="http://latex.codecogs.com/gif.latex?\large&space;h(n)=C_{2n}^{n}-C_{2n}^{n+1}" title="\large h(n)=C_{2n}^{n}-C_{2n}^{n+1}" /></a>  
